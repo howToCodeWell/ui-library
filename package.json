@@ -1,6 +1,6 @@
 {
   "name": "@howtocodewell/ui-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How To Code Well UI Library",
   "main": "src/index.js",
   "scripts": {
