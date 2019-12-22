@@ -1,4 +1,6 @@
 @import "devicon.css";
+@import "devicon-colors.css";
+
 .devicons i{
     font-size: 2em;
 }
