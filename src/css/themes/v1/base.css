@@ -8,6 +8,7 @@ body {
 }
 body {
     line-height: 2em;
+    padding-bottom:300px;
 }
 .page-container {
    min-height: 100%;
