@@ -1,4 +1,4 @@
-# How To Code Well UI Libary
+# How To Code Well UI Library
 The UI Library for HTCW
 
 # Install
