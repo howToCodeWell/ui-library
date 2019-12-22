@@ -6,12 +6,19 @@ body {
     padding: 0;
     height: 100%;
 }
+
 body {
     line-height: 2em;
-    padding-bottom:300px;
 }
+
 .page-container {
-   min-height: 100%;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.main-container {
+    flex-grow: 1;
 }
 
 header.bg {
