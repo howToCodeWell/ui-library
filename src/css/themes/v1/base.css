@@ -1,0 +1,33 @@
+@import '../base.css';
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body {
+    line-height: 2em;
+}
+.page-container {
+   min-height: 100%;
+}
+
+header.bg {
+    background-color: theme('colors.howtocodewell');
+}
+
+header a:hover {
+    color: hotpink;
+}
+
+.text-white {
+    color: #FFF;
+}
+
+.profile-image {
+    width: 50px;
+    height: 50px;
+    margin: 5px 0;
+}
+
